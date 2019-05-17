@@ -2,9 +2,9 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
 if(num%3=0)
-Fizz
+"Fizz"
 if(num%5=0)
-Buzz
+"Buzz"
 if(num%15=0)
-FizzBuzz
+"FizzBuzz"
 end
